@@ -16,7 +16,7 @@ document.querySelector('#phone-checkbox')
     }
   })
 
-document.querySelector('button[type="submit"]')
+document.querySelector('button[type="su"]')
   .addEventListener('click', function(event) {
     event.preventDefault()
     const firstNameField = document.getElementById('firstName')
